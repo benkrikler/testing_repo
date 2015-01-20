@@ -8,6 +8,6 @@
 
 <project name="plotify" remote="ben_github" path="plotify"/>
 <project name="ichep-coders-club.github.io" remote="alcap_github" path="plotify"/>
-<project name="plotify" remote="ichep_github" path="plotify"/>
+<project name="plotify" remote="ichep_github" path="plotify_ichep"/>
 </manifest>
 
