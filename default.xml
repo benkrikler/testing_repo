@@ -2,6 +2,10 @@
 <manifest>
 	<remote name="ben"
 		fetch="https://github.com/benkrikler" />
+	<remote name="alcap"
+		fetch="https://github.com/alcap-org" />
 <!-- example showing how to pull a github package -->
      <project path="plotify" name="plotify" revision="refs/heads/master" remote="ben"/>
+     <project path="alcap/g4sim" name="g4sim" revision="refs/heads/master" remote="alcap"/>
+     <project path="alcap/AlcapDAQ" name="AlcapDAQ" revision="refs/heads/master" remote="alcap"/>
 </manifest>
