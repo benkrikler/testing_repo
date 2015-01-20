@@ -2,7 +2,10 @@
 	<remote name="ben_github" fetch="https://github.com/benkrikler/"/>
 	<remote name="ichep_github" fetch="https://github.com/ichep-coders-club/"/>
 	<remote name="alcap_github" fetch="https://github.com/alcap-org/"/>
-<default revision="refs/heads/master" remote="bitbucket" sync-j="4"/>
+<default revision="refs/heads/master" remote="ben_github" sync-j="4"/>
+<default revision="refs/heads/master" remote="ichep_github" sync-j="4"/>
+<default revision="refs/heads/master" remote="alcap_github" sync-j="4"/>
+
 <project name="plotify" remote="ben_github" path="plotify"/>
 <project name="ichep-coders-club.github.io" remote="alcap_github" path="plotify"/>
 <project name="plotify" remote="ichep_github" path="plotify"/>
