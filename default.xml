@@ -3,5 +3,5 @@
 	<remote name="ben"
 		fetch="https://github.com" />
 <!-- example showing how to pull a github package -->
-     <project path="plotify" name="benkrikler/plotify" revision="refs/heads/master" remote="github"/>
+     <project path="plotify" name="benkrikler/plotify" revision="refs/heads/master" remote="ben"/>
 </manifest>
